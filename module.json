@@ -1,0 +1,4 @@
+{
+	name:'OCRLivenessModule',
+	class:'com.apicloud.moduleSZTP.OCRLivenessModule'
+}

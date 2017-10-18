@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <string name="ocrlivenessmodule_fail_to_contect_camcard">打开相机失败</string>
+    <string name="ocrlivenessmodule_envir_detec">环境检测</string>
+    <string name="ocrlivenessmodule_img_describe">--</string>
+    <string name="ocrlivenessmodule_hint_envir_success">环境正常</string>
+    <string name="ocrlivenessmodule_picture_face_size">人脸过小，请近距离拍照</string>
+    <string name="ocrlivenessmodule_picture_face_none">检测人脸失败，请对准头像框</string>
+    <string name="ocrlivenessmodule_picture_face_more">检测到多张人脸，只能拍取单个人脸</string>
+    <string name="ocrlivenessmodule_picture_face_dusky">光线过暗</string>
+    <string name="ocrlivenessmodule_picture_face_pose">侧面光线过强</string>
+    <string name="ocrlivenessmodule_picture_face_sidelight">姿态不正确，请正对摄像头</string>
+    <string name="ocrlivenessmodule_picture_face_position">人脸位置不正确，请对准头像框</string>
+    <string name="ocrlivenessmodule_picture_error">环境错误</string>
+    <string name="ocrlivenessmodule_label_loading_txt2">即将活体检测</string>
+    <string name="ocrlivenessmodule_picture_none">您尚未拍取正脸照片，无法进行下一步！</string>
+    <string name="ocrlivenessmodule_body_check">活体检测</string>
+    <string name="ocrlivenessmodule_hint_msg_timeout">超时，本次识别失败</string>
+    <string name="ocrlivenessmodule_operation_action_lefthead">向左转头</string>
+    <string name="ocrlivenessmodule_operation_action_righthead">向右转头</string>
+    <string name="ocrlivenessmodule_operation_action_openmouth">请张嘴</string>
+    <string name="ocrlivenessmodule_operation_action_closeeye">请眨眼</string>
+    <string name="ocrlivenessmodule_operation_action_uphead">请抬头</string>
+    <string name="ocrlivenessmodule_operation_action_downhead">向下低头</string>
+    <string name="ocrlivenessmodule_operation_action_shakehead">左右摇头</string>
+    <string name="ocrlivenessmodule_hint_msg_close_camera">请靠近摄像头</string>
+    <string name="ocrlivenessmodule_hint_msg_nobody">无人</string>
+
+</resources>

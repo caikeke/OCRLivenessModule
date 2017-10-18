@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="ocrlivenessmodule_white">#FFFFFF</color>
+    <color name="ocrlivenessmodule_desc_right">#0788ca</color>
+    <color name="ocrlivenessmodule_desc_erro">#e90334</color>
+    <color name="ocrlivenessmodule_range_up_100">#08d123</color>
+    <color name="ocrlivenessmodule_range_down_100">#e90334</color>
+</resources>
